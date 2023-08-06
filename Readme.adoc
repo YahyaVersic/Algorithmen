@@ -1,3 +1,4 @@
 Algorithmen und Datenstrukturen
-- c
-- arrayliste, 
+
+
+Außerdem Leetcode stuff
